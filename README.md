@@ -6,7 +6,7 @@ Business 360 - Brick &amp; mortar and e-commerce
 
 - **Project objective:** 
 
-    **1.** •	Designed a multi-view dashboard _[Business 360](https://github.com/Niharika836/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ in Power BI for 6 departments (sales, finance, supply chain, executive, marketing, and products) of AtliQ hardware to understand sales trends, facilitate data-driven decisions that scaled the business processes by 10%.
+    **1.** •	Designed a multi-view dashboard _[Business 360](https://github.com/Niharika836/Business-360/blob/main/BI%20360.pdf)_ in Power BI for 6 departments (sales, finance, supply chain, executive, marketing, and products) of AtliQ hardware to understand sales trends, facilitate data-driven decisions that scaled the business processes by 10%.
 
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
